@@ -1,6 +1,6 @@
 #  Networking Practical
 
-A collection of **Cisco Packet Tracer (.pkt)** lab files covering essential networking concepts and practical assignments. This repository is designed for students, beginners, and anyone preparing for networking practical exams or the CCNA certification.
+A collection of **Cisco Packet Tracer (.pkt)** lab files covering essential networking concepts and practical assignments. This repository is designed for students, beginners, and anyone preparing for networking practical.
 
 ##  Topics Covered
 

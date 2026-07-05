@@ -28,7 +28,7 @@ A collection of **Cisco Packet Tracer (.pkt)** lab files covering essential netw
 
 > More networking practical files will be added over time.
 
-## 🛠 Requirements
+##  Requirements
 
 - Cisco Packet Tracer 8.0 or later
 - Basic knowledge of networking concepts

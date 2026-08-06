@@ -43,18 +43,6 @@ This repository is intended to help:
 - Complete academic assignments
 - Improve hands-on networking skills
 
-##  How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/Networking-Practical.git
-   ```
-
-2. Open any `.pkt` file using Cisco Packet Tracer.
-
-3. Explore, modify, and practice the configurations.
-
-
 ##  Support
 
 If you find this repository helpful, consider giving it a **⭐ Star** to support the project.

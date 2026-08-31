@@ -30,7 +30,7 @@ A collection of **Cisco Packet Tracer (.pkt)** lab files covering essential netw
 
 ##  Requirements
 
-- Cisco Packet Tracer 8.0 or later
+- Cisco Packet Tracer 8.0 or later(For installing reference watch tutorial from YouTube)
 - Basic knowledge of networking concepts
 
 ##  Purpose

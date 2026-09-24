@@ -11,6 +11,7 @@ A collection of **Cisco Packet Tracer (.pkt)** lab files covering essential netw
 - Inter-VLAN Routing
 - DHCP Configuration
 - DNS Configuration
+- Trunking
 - Telnet Configuration
 - RIP Routing
 - Port Security

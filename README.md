@@ -1,6 +1,6 @@
 #  Networking Practical Repository
 
-A collection of **Cisco Packet Tracer (.pkt)** lab files covering essential networking concepts and practical assignments. This repository is designed for students, beginners, and anyone preparing for networking practical.
+A collection of **Cisco Packet Tracer (.pkt)** and **GNS3** lab files covering essential networking concepts and practical assignments. This repository is designed for students, beginners, and anyone preparing for networking practical.
 
 ##  Topics Covered
 
